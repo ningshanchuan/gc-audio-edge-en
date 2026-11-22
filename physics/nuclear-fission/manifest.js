@@ -1,2 +1,2 @@
 /* stand-in recordings (Microsoft Edge voice); Serena recordings play first */
-LabAudioManifest({"lesson": "edge:physics/nuclear-fission", "voice": "edge en-US-AvaNeural", "en": "2bf05714 3d2d4152 ad94e0c8"});
+LabAudioManifest({"lesson": "edge:physics/nuclear-fission", "voice": "edge en-US-AvaNeural", "en": "016570af 017bf815 026a47ac 038d66a2 04806224 04d6bb6b 04f7ba3c 057deeca 087cc9a8 09ea12c9 0b82b21e 0be460aa 0c3c6eb8 0da48c66 0e42662a 0ff83127 10055948 1184fdb6 11a8d860 11aa3afd 13b59c33 13d72e94 1442a154 14a799fe 15ecc7aa 1607a4bc 1a882d9f 1aefa3f9 1b22ba5e 1cc4cdbd 1dd3a8a4 1f0ea2a1 1f368987 1fbde153 2145d0a9 21cd68ed 22575a26 2268992c 22c24ec8 2410bdc2 247d48c6 249b142c 2991b273 2bf05714 2cbaddf7 2ce8df04 2e1c8f43 2f718e44 34772498 3d2d4152 ad94e0c8"});
