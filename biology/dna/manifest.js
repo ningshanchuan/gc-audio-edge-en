@@ -1,2 +1,0 @@
-/* stand-in recordings (Microsoft Edge voice); Serena recordings play first */
-LabAudioManifest({"lesson": "edge:biology/dna", "voice": "edge en-US-AvaNeural", "en": "062e5780 123e68da 1547d054 26f732c0 2ea05830 2f9a4668 3766b056 567825fe 5c43504a 6ac5959a 70b3adf9 76bd6007 7894b962 7999999c 8401c71e 8ca0da28 978ffea0 9bcb1adb aa48b33c ab955fae ac3f6ce7 b081dc25 bfb31d78 c0b040ff c40cdfa8 c4d7521b c7c09972 cf3d3a83 d2038bc2 dcc71b51 e13e75b9 e3da1d0f e45d45ba f20f377d fc5430c7 fe217666 fe378623"});

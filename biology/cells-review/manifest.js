@@ -1,2 +1,0 @@
-/* stand-in recordings (Microsoft Edge voice); Serena recordings play first */
-LabAudioManifest({"lesson": "edge:biology/cells-review", "voice": "edge en-US-AvaNeural", "en": "01a7391f 0810722c 088e3efe 0f773d40 112264e7 18a15194 18fa0956 1e45c10b 1f700d58 249b2a52 25567314 26a7619d 26bcde26 2e39ec11 36de4633 3ba7575d 429d5e07 43f9c6f9 48abeaf2 492bfb01 548992d0 62710480 6b4d2334 6db73696 7837dfbc 7a6dc4b2 7ad14578 7d4f924c 8a3c830d 8ac7d501 9a59e761 a4d75ba1 a8404b67 acd6859e aeb2a8b9 b3f04c19 b4a4f9e1 c3ea6b77 c84526b8 d33606a5 e3f02231 e48d455b f852d112 fbb77d10"});
