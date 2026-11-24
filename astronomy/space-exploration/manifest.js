@@ -1,2 +1,2 @@
 /* stand-in recordings (Microsoft Edge voice); Serena recordings play first */
-LabAudioManifest({"lesson": "edge:astronomy/space-exploration", "voice": "edge en-US-AvaNeural", "en": "45e293eb 60adc500 9f4859d8"});
+LabAudioManifest({"lesson": "edge:astronomy/space-exploration", "voice": "edge en-US-AvaNeural", "en": "06d9898f 08f668cd 0a447f9f 0bde18bf 0d6e4e3e 0ecd5bee 0f109117 0fb84e6d 0fd9ca7b 0fe4004e 118fb8c0 13bf94cf 1406146c 1851f798 19f5905e 1af8bd83 1f85a7d0 20c65ffc 21d2ed1a 293a2dfd 2a1ed54c 2b27b470 2b449cac 30015a8c 318a12a9 35c85ed5 36638a34 36913214 3796124b 37e2af23 396f6309 3a05a846 40dfca52 45e293eb 47a7b551 4813f611 49af25a2 4a6a0717 4b050031 4ca07ca2 51d31003 536426e6 53b9ea04 57da412d 60adc500 9f4859d8"});

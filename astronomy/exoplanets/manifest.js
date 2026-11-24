@@ -1,0 +1,2 @@
+/* stand-in recordings (Microsoft Edge voice); Serena recordings play first */
+LabAudioManifest({"lesson": "edge:astronomy/exoplanets", "voice": "edge en-US-AvaNeural", "en": "065d4882 0ae6aedf 294b43e7 2d0d930d 381c2a1d 392a099f 40269fa1 4658455f 4e6d5b8c 50d9ca38 50eb5294 6bb0497b 76ce1bcd 7af2b512 9b0677b0 9e311a0a 9ffeaf86 a341012c ad387711 af6e7124 b89b8812 bae211b8 bce8d8bf c462667f c88eff07 df531f2a edea651a f3c2f49d"});
