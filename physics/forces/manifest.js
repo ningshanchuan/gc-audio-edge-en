@@ -1,2 +1,2 @@
 /* stand-in recordings (Microsoft Edge voice); Serena recordings play first */
-LabAudioManifest({"lesson": "edge:physics/forces", "voice": "edge en-US-AvaNeural", "en": "010931c5 03f20efd 0fb631f7"});
+LabAudioManifest({"lesson": "edge:physics/forces", "voice": "edge en-US-AvaNeural", "en": "010931c5 03f20efd 0fb631f7 200c8ce5 23e738b4 2ac9cf3c 318501f3 34df56df 38707035 4adcffbd 50706553 68f9da06 8b108122 909b9552 9169ed04 a4aaa123 a7303d10 aebcdf0e b7b1b7a9 bd7d323c c01da56e c723f7dc c97520f5 c9afab64 e1a094c7 f8e27e04 fc5cab31 fcf912d2"});
